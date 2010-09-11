@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/Users/jonkgrimes/CS373/spikes'
+let g:netrw_dirhist_2='/Users/jonkgrimes/CS373/primes'
+let g:netrw_dirhist_3='/Users/jonkgrimes/CS373'
+let g:netrw_dirhist_4='/Users/jonkgrimes/www'
+let g:netrw_dirhist_5='/Users/jonkgrimes/www/sandbox'
+let g:netrw_dirhist_6='/'
+let g:netrw_dirhist_7='/Users/jonkgrimes'
+let g:netrw_dirhist_8='/Users/jonkgrimes/.vim'
+let g:netrw_dirhist_9='/Users/jonkgrimes'
