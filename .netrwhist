@@ -1,9 +1,6 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =7
-let g:netrw_dirhist_1='/Users/jonkgrimes/www/blog/app/models'
-let g:netrw_dirhist_2='/Users/jonkgrimes/www/blog/app'
-let g:netrw_dirhist_3='/Users/jonkgrimes/www/blog/app/controllers'
-let g:netrw_dirhist_4='/Users/jonkgrimes/CS343/ir/webutils'
-let g:netrw_dirhist_5='/Users/jonkgrimes/CS373/tasks'
-let g:netrw_dirhist_6='/Users/jonkgrimes/CS373'
-let g:netrw_dirhist_7='/Users/jonkgrimes'
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/Users/jonkgrimes/.vim/gvimrc'
+let g:netrw_dirhist_2='/Users/jonkgrimes'
+let g:netrw_dirhist_3='/Users/jonkgrimes/.vim'
+let g:netrw_dirhist_4='/Users/jonkgrimes/.vim/gvimrc'
