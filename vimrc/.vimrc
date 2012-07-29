@@ -17,5 +17,8 @@ set ttyfast
 set ruler
 set backspace=indent,eol,start
 set laststatus=2
-set background=dark
+set background=light
 colorscheme solarized
+call pathogen#infect()
+syntax on
+filetype plugin indent on
