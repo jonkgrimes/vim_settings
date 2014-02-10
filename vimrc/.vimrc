@@ -1,3 +1,6 @@
+call pathogen#infect()
+syntax on
+filetype plugin indent on
 set nocompatible
 set tabstop=2
 set shiftwidth=4
@@ -19,6 +22,3 @@ set backspace=indent,eol,start
 set laststatus=2
 set background=light
 colorscheme solarized
-call pathogen#infect()
-syntax on
-filetype plugin indent on

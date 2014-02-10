@@ -1,3 +1,6 @@
+call pathogen#infect()
+syntax on
+filetype plugin indent on
 set nocompatible
 set autoindent
 set tabstop=2
@@ -9,8 +12,5 @@ set expandtab
 set encoding=utf-8
 set number
 set background=light
-set guifont=Menlo\ Regular:h13
+set guifont=Menlo\ Regular:h16
 colorscheme solarized
-call pathogen#infect()
-syntax on
-filetype plugin indent on
