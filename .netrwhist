@@ -1,5 +1,6 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =3
-let g:netrw_dirhist_1='/Users/jonkgrimes/Development/hot-pie'
-let g:netrw_dirhist_2='/Users/jonkgrimes/Development/hot-pie/middleware'
-let g:netrw_dirhist_3='/Users/jonkgrimes/Development/thesquarefoot'
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/Users/jong/Development/desktop/vendor/plugins/helpdesk-ui'
+let g:netrw_dirhist_2='/Users/jong/Development/desktop/vendor/plugins/helpdesk-ui/app'
+let g:netrw_dirhist_3='/Users/jong/Development/desktop/vendor/plugins/helpdesk-ui/app/assets'
+let g:netrw_dirhist_4='/Users/jong/Development/desktop/vendor/plugins/helpdesk-ui/app/assets/javascripts'

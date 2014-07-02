@@ -22,3 +22,4 @@ set backspace=indent,eol,start
 set laststatus=2
 set background=light
 colorscheme solarized
+autocmd BufWritePre *.rb :%s/\s\+$//e
