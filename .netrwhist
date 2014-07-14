@@ -1,6 +1,13 @@
 let g:netrw_dirhistmax  =10
 let g:netrw_dirhist_cnt =4
+<<<<<<< HEAD
 let g:netrw_dirhist_1='/Users/jonkgrimes/Development/c-the-hard-way/6'
 let g:netrw_dirhist_2='/Users/jonkgrimes/Development/c-the-hard-way'
 let g:netrw_dirhist_3='/Users/jonkgrimes/Development/c-the-hard-way/11'
 let g:netrw_dirhist_4='/Users/jonkgrimes/Development/learn-you-some-erlang/ppoolex'
+=======
+let g:netrw_dirhist_1='/Users/jong/Development/desktop/vendor/plugins/helpdesk-ui'
+let g:netrw_dirhist_2='/Users/jong/Development/desktop/vendor/plugins/helpdesk-ui/app'
+let g:netrw_dirhist_3='/Users/jong/Development/desktop/vendor/plugins/helpdesk-ui/app/assets'
+let g:netrw_dirhist_4='/Users/jong/Development/desktop/vendor/plugins/helpdesk-ui/app/assets/javascripts'
+>>>>>>> origin/master

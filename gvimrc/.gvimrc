@@ -14,3 +14,4 @@ set number
 set background=light
 set guifont=Menlo\ Regular:h16
 colorscheme solarized
+autocmd BufWritePre *.rb :%s/\s\+$//e
