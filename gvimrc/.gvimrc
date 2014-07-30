@@ -12,6 +12,6 @@ set expandtab
 set encoding=utf-8
 set number
 set background=light
-set guifont=Menlo\ Regular:h16
+set guifont=Source\ Code\ Pro:h16
 colorscheme solarized
 autocmd BufWritePre *.rb :%s/\s\+$//e
