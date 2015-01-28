@@ -15,3 +15,5 @@ set background=light
 set guifont=Source\ Code\ Pro:h16
 colorscheme solarized
 autocmd BufWritePre *.rb :%s/\s\+$//e
+
+let g:go_fmt_command = "gofmt"
