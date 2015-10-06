@@ -20,6 +20,6 @@ set ttyfast
 set ruler
 set backspace=indent,eol,start
 set laststatus=2
-set background=light
+set background=dark
 colorscheme solarized
 autocmd BufWritePre *.rb :%s/\s\+$//e
