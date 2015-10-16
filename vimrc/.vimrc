@@ -21,5 +21,5 @@ set ruler
 set backspace=indent,eol,start
 set laststatus=2
 set background=dark
-colorscheme solarized
+colorscheme monokai
 autocmd BufWritePre *.rb :%s/\s\+$//e
