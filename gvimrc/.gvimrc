@@ -11,8 +11,9 @@ set showmatch
 set expandtab
 set encoding=utf-8
 set number
-set background=light
-set guifont=Source\ Code\ Pro:h16
+set background=dark
+set macligatures
+set guifont=Fira\ Code:h16
 colorscheme solarized
 autocmd BufWritePre *.rb :%s/\s\+$//e
 autocmd BufWritePre *.js :%s/\s\+$//e
