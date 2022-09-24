@@ -13,7 +13,7 @@ set encoding=utf-8
 set number
 set background=dark
 set macligatures
-set guifont=Fira\ Code:h16
+set guifont=JetBrains\ Mono:h16
 colorscheme solarized
 autocmd BufWritePre *.rb :%s/\s\+$//e
 autocmd BufWritePre *.js :%s/\s\+$//e
